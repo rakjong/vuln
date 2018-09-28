@@ -1,6 +1,6 @@
 # vuln
-csrf and Background getshell!
 
+Record some of vulnerabilities discovered by myself！！
 
 
 
